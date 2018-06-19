@@ -3,7 +3,7 @@ A Java application used for creating personal task lists.
 
 Note: Graphical resources taken from http://material.io
 
-![alt text](https://github.com/pippom/2Doer/blob/master/2Doer%20GitHub%20Pic%20(1).png)
+![alt text](https://github.com/pippom/2Doer/blob/master/src/sample/assets/2Doer_logo1.PNG)
 
 ## Next Actions
 - Design login page
