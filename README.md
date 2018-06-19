@@ -9,6 +9,6 @@ Note: Graphical resources taken from http://material.io
 - Design login page
 - Design task page
 - Create database
-- Develop functionality for user/password fields, log in and sign up buttons on login page
+- Develop functionality for user/password fields, login and sign up buttons on login page
 - Develop functonality for task page
 - Design 2Doer logo
