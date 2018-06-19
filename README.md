@@ -1,4 +1,4 @@
-![alt text](https://github.com/pippom/2Doer/blob/master/src/sample/assets/2Doer_logo1.PNG)
+![alt text](https://github.com/pippom/2Doer/blob/master/src/sample/assets/2Doer_logo2.PNG)
 
 # 2Doer
 A Java application used for creating personal task lists.
