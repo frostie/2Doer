@@ -13,3 +13,4 @@ Note: Graphical resources taken from http://material.io
 - Create database (IN PROGRESS)
 - Develop functionality for user/password fields, login and sign up buttons on login page
 - Develop functonality for task page
+- Create website
