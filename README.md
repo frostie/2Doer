@@ -10,7 +10,7 @@ Note: Graphical resources taken from http://material.io
 ## Next Actions
 - Design login page (DONE)
 - Design task page (DONE)
-- Create database (IN PROGRESS)
+- Create SQL database (IN PROGRESS)
 - Develop functionality for user/password fields, login and sign up buttons on login page
 - Develop functonality for task page
 - Create website
