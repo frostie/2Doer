@@ -13,3 +13,6 @@ Note: Graphical resources taken from http://material.io
 - Develop functonality for task page
 - Add screenshots of each application scene to Github
 - Create website
+
+## A Closer Look
+(Pictures to be added here)
