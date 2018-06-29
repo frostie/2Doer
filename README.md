@@ -15,4 +15,4 @@ Note: Graphical resources taken from http://material.io
 - Create website
 
 ## A Closer Look
-(Pictures to be added here)
+![alt_text](https://github.com/pippom/2Doer/blob/master/2Doer%20GitHub%20Pic%20(1).png)
